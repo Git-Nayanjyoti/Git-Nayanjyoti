@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nayanjyoti Rabha</h1>
-<h3 align="center">A passionate developer from India. In a journey to make my github profile/timeline colourful with codes and make contributions.</h3>
+<h3 align="center">A passionate developer from India. In a journey to make my github profile/timeline colourful with codes and make valuable contributions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=git-nayanjyoti&label=Profile%20views&color=0e75b6&style=flat" alt="git-nayanjyoti" /> </p>
 
@@ -26,6 +26,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=git-nayanjyoti&show_icons=true&locale=en&layout=compact" alt="git-nayanjyoti" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=git-nayanjyoti&show_icons=true&locale=en" alt="git-nayanjyoti" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=git-nayanjyoti&" alt="git-nayanjyoti" /></p>
+
