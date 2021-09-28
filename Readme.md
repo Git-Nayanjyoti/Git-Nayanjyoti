@@ -28,7 +28,7 @@ In a journey to make my github profile/timeline colourful with codes and make co
 [<img align = "left" alt = "Bootstrap" width = "26px" src = "https://github.com/Git-Nayanjyoti/Nayanjyoti/blob/main/tools/Bootstrap_logo.svg.png"/>]()
 [<img align = "left" alt = "Selenium" width = "26px" src = "https://github.com/Git-Nayanjyoti/Nayanjyoti/blob/main/tools/selenium-logo.png"/>]()
 [<img align = "left" alt = "C programming" width = "26px" src = "https://github.com/Git-Nayanjyoti/Nayanjyoti/blob/main/tools/C%20prog.png"/>]()
-[<img align = "left" alt = "C Sharp" width = "26px" src = "https://github.com/Git-Nayanjyoti/Nayanjyoti/blob/main/tools/C%20sharp.png"/>]()
+[<img align = "left" alt = "C Sharp" width = "34px" src = "https://github.com/Git-Nayanjyoti/Nayanjyoti/blob/main/tools/C%20sharp.png"/>]()
 [<img align = "left" alt = "Python" width = "26px" src = "https://github.com/Git-Nayanjyoti/Nayanjyoti/blob/main/tools/python.png"/>]()
 [<img align = "left" alt = "SQL" width = "32px" src = "https://github.com/Git-Nayanjyoti/Nayanjyoti/blob/main/tools/SQL.png"/>]()
 [<img align = "left" alt = "Jupyter Notebook" width = "26px" src = "https://github.com/Git-Nayanjyoti/Nayanjyoti/blob/main/tools/Jupyter_logo.svg.png"/>]()
