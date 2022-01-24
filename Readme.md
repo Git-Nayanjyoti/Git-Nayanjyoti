@@ -5,13 +5,12 @@
 
 <p align="left"> <a href="https://twitter.com/nayanjyotirabh8" target="blank"><img src="https://img.shields.io/twitter/follow/nayanjyotirabh8?logo=twitter&style=for-the-badge" alt="nayanjyotirabh8" /></a> </p>
 
-- ☕️ I’m currently working on [Java Selenium](https://github.com/Git-Nayanjyoti/JavaSelenium) [| API Testing](https://github.com/Git-Nayanjyoti/API-Testing.git) [| Javascript](https://github.com/Git-Nayanjyoti/Javascript)
+- I’m currently working on [Java Selenium](https://github.com/Git-Nayanjyoti/JavaSelenium) [| API Testing](https://github.com/Git-Nayanjyoti/API-Testing.git) [| Javascript](https://github.com/Git-Nayanjyoti/Javascript)
 
-- 🤖 I am also enthusiast of **Deep Learning**
+- I am also enthusiast of **Deep Learning**
 
-- 🕸 And I also have interest on **Web Development**
 
-- 📫 How to reach me **njrabha6@gmail.com**
+📫 How to reach me **njrabha6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
